@@ -11,18 +11,17 @@ body {
     background-color: #001219;
 }
 
-h1 {
-    padding: 20px 0px ;
+h1, p {
+    padding: 10px 0px ;
 }
 
 article {
-    background-color: #4a4e69;
     margin: 15px 0px;
-    padding: 20px;
+    padding: 20px 0px;
     border-radius: 10px;
 }
 
-header {
+header, main, footer {
     background-color: #232846;
     margin: 20px;
     padding: 50px;
